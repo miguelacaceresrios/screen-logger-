@@ -1,7 +1,7 @@
-# |-Screen Logger Híbrido-|
+# |-OJO DE SAURON-|
 
 
-ScreenLoggerHybrid es un proyecto que combina el uso de C y Assembly para capturar la pantalla y demostrar técnicas de programación híbrida. El propósito de este proyecto es enseñar cómo los lenguajes de bajo nivel pueden interactuar con el hardware del sistema operativo y cómo integrarlos con lenguajes de alto nivel para crear aplicaciones más eficientes y robustas.
+Ojo de Sauron es un proyecto que combina el uso de C y Assembly para capturar la pantalla y demostrar técnicas de programación híbrida. El propósito de este proyecto es enseñar cómo los lenguajes de bajo nivel pueden interactuar con el hardware del sistema operativo y cómo integrarlos con lenguajes de alto nivel para crear aplicaciones más eficientes y robustas.
 
 Este proyecto está diseñado con fines educativos y de concientización sobre la seguridad informática, con el objetivo de mostrar los riesgos potenciales en la seguridad de dispositivos si no se aplican medidas adecuadas de protección. No debe ser utilizado para fines malintencionados.( tu me entiendes )
 
