@@ -1,0 +1,1 @@
+all: mainmain: main.o capture.o    gcc -o screen_logger main.o capture.omain.o: main.c    gcc -c main.ccapture.o: capture.asm    nasm -f elf64 capture.asm -o capture.oclean:    rm -f *.o screen_logger
